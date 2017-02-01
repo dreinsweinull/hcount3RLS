@@ -2,4 +2,5 @@
 *.xml
 *.csv
 *.txt
+*.vs
 *.config
