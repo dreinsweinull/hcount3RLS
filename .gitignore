@@ -1,6 +1,7 @@
 *.pdb
 *.xml
 *.csv
+*.tsv
 *.txt
 *.vs
 *.config
