@@ -5,3 +5,5 @@
 *.txt
 *.vs
 *.config
+*.json
+*.dll
